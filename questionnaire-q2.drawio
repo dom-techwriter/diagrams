@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T10:04:54.194Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.1" etag="jG_tN6cnzZ6fiS-1cJbv" type="github"><diagram id="36YL6NXtbg14vKo9hcqL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-30T11:10:31.077Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WdVpPpApkvAfOZYKjgtB" version="14.5.1" type="github">
+  <diagram id="36YL6NXtbg14vKo9hcqL" name="Page-1">
+    <mxGraphModel dx="1116" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PLPS6hGYl5mH4zbxxqaF-1" target="PLPS6hGYl5mH4zbxxqaF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-1" value="Hi there! We are creating specific guides and would love to hear your feedback!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-5" value="Thanks for your feedback! We&#39;ll try our best to get it done soon :)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PLPS6hGYl5mH4zbxxqaF-6" target="PLPS6hGYl5mH4zbxxqaF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-6" value="Would you like to see guides focused on:&lt;br&gt;&lt;br&gt;Use-cases (for example...):&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Technologies (for example...):" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="155" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PLPS6hGYl5mH4zbxxqaF-8" target="PLPS6hGYl5mH4zbxxqaF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-8" value="Awesome! One more question. How likely would you recommend our documentation to other developers?" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="155" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-13" value="Long answer field" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-14" value="Long answer field" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-15" value="Additional notes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-16" value="Small NPS rating" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="125" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-17" value="Info re: guides they&#39;d like to see" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PLPS6hGYl5mH4zbxxqaF-18" value="1 2 3 4 5 6 7 8 9 10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
